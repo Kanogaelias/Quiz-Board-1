@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    
+}
+.jumbotron{
+    background-image: url(../img/background.jpg);
+    background-attachment: fixed;
+}
+.well{
+    background-color: bisque;
+}
+.panel{
+    background-color: rgb(197, 134, 118);  
+}
