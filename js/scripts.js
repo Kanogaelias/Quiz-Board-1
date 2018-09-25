@@ -23,9 +23,11 @@ function check(){
         right= right+20;
     };
     
+    
  
     document.getElementById("fifth-p").style.visibility="visible";
-    document.getElementById("correctNumber").innerHTML="here is your score: " + right + "%";
-
+    document.getElementById("correctNumber").innerHTML="HERE IS YOUR SCORE: " + right + "%";
+    $(".container").fadeOut();
     
-    };
+};
+    
